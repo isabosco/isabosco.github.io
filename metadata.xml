@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dcterms="http://purl.org/dc/terms/"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://purl.org/dc/elements/1.1/ http://dublincore.org/schemas/xmls/qdc/2008/02/11/dces.xsd">
+
+    <dc:title>Untitled (Fortune Cookie)</dc:title>
+    <dc:creator>Felix Gonzalez Torres</dc:creator>
+    <dc:subject>The subject of Félix González-Torres' 
+    artwork "Untitled (Fortune Cookie Corner)" is 
+    typically related to themes of consumerism, 
+    abundance, impermanence, and participation.</dc:subject>
+    <dc:description>Untitled (Fortune Cookie Corner) consists 
+    of a large pile of fortune cookies displayed in a corner of a room. 
+    The viewers are invited to take a cookie from the pile. The endless
+     supply aspect of the artwork means that the pile of cookies is 
+     continuously replenished, creating an impression that the supply
+      of cookies is never-ending</dc:description>
+    <dc:date>1990</dc:date>
+    <dc:type>sculpture</dc:type>
+    <dc:format>participation and conceptual artwork</dc:format>
+    <dc:identifier>0700262874</dc:identifier>
+    <dc:source>https://catalogo.beniculturali.it/detail/HistoricOrArtisticProperty0700262874</dc:source>
+    <dc:source>https://w3id.org/arco/resource/CatalogueRecordOA/0700262874</dc:source>
+    <dc:coverage>Sassello (SV)</dc:coverage>
+    <dc:rights>propriety of the Felix Gonzalez Torres Foundation</dc:rights>
+
+</metadata>

@@ -1,0 +1,77 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Félix González-Torres Project</title>
+            <author xml:id="YourAuthorID" ref="YourAuthorURI">Robert Storr, Miwon Kwon</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>Steidl</publisher>
+            <pubPlace>New York, USA</pubPlace>
+            <availability>
+               <p>Available by Purchase.</p>
+               <date>2006</date>
+            </availability>
+         </publicationStmt>
+      </fileDesc>
+      <profileDesc>
+         Contributor(s): Robert Storr, Robert Nickas, 
+         Russell Ferguson, Lewis Baltz, Nancy Spector,
+          Joseph Kosuth, Miwon Kwon, et al.
+         <particDesc>
+            <listPerson>
+               <person xml:id="FGT" ref="https://www.felixgonzalez-torresfoundation.org/selected-monographs-and-solo-catalogues/felix-gonzalez-torres6">
+                  <persName>Félix González-Torres</persName>
+               </person>
+            </listPerson>
+         </particDesc>
+      </profileDesc>
+   </teiHeader>
+   <text xml:lang="en">
+      elix Gonzalez-Torres lived and worked resolutely according to 
+      his own idealistic principles, combining elements of Conceptual
+       art, Minimalism, political activism, and poetic beauty in an
+        ever-expanding arsenal of media, including public billboards,
+         give-away piles of candy and posters, and ordinary objects--
+         clocks, mirrors, light fixtures--used to startling effect.
+          His work challenged the notions of public and private space,
+           originality, authorship and--most significantly--
+           the authoritative structures in which he and his viewers 
+           functioned. Editor Julie Ault has amassed the first 
+           comprehensive monograph to span Gonzalez-Torres's career.
+            In the spirit of his method, she rethinks the very idea 
+            of what a monograph should be.
+      <front>
+         <div type="project-description">
+            <p>The book, which places strong emphasis on the written word,
+             contains newly commissioned texts by Robert Storr and
+              Miwon Kwon, an introduction by Susan Cahill and an 
+              extended conversation with fellow artist Tim Rollins, 
+              as well as significant critical essays, exhibition statements,
+               transcripts from lectures, personal correspondence, and 
+               writings that influenced Gonzalez-Torres and his work.</p>
+         </div>
+      </front>
+      <body>
+         Félix González-Torres, hailing from Cuba, was a visionary artist whose works, 
+            particularly poignant in the context of the AIDS epidemic, explored themes of
+             identity and impermanence. Through minimalistic yet evocative creations, often
+              employing everyday objects, he invited viewers to contemplate the transient nature of existence. 
+              González-Torres, deeply affected by the AIDS crisis, infused his art with personal and political dimensions, 
+              addressing issues of love, loss, and the passage of time. His thought-provoking pieces, 
+              like the "Untitled" candy spills representing the AIDS pandemic's impact, continue to inspire discourse, 
+              making him a pioneering figure in contemporary art.
+         <div type="artwork">
+            <head>Félix González-Torres Artwork</head>
+            <p>Your description of a specific artwork by González-Torres.</p>
+         </div>
+         Félix González-Torres (1957-1996) was a renowned American artist
+          known for conceptual and minimalist works. His art explored 
+          themes of love, loss, and identity. Notable for his "candy spills" and 
+          "stacks" of everyday objects, González-Torres invited viewer 
+          participation, making art a shared experience. 
+          His work transcends boundaries, leaving a profound, 
+          emotional impact.
+      </body>
+   </text>
+</TEI>

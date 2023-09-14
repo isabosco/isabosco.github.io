@@ -1,0 +1,130 @@
+body,
+h1,
+h2,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Arial", sans-serif;
+  line-height: 1.6;
+  background-color: #f5f5f5;
+  display: flex; 
+  flex-direction: column; 
+  height: 100vh; 
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 1rem 0;
+  margin-bottom: 2.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+nav {
+  background-color: #333;
+  color: #fff;
+  padding: 0.625rem 0;
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 1.25rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  transition: color 0.3s;
+}
+
+nav ul li a:hover {
+  color: #ddd;
+}
+
+h1,
+h2 {
+  margin-bottom: 0.625rem;
+}
+
+section {
+  padding: 1.25rem;
+  margin-bottom: 1.25rem;
+  background-color: #fff;
+  border: 0.0625rem solid #e0e0e0;
+  border-radius: 0.3125rem;
+}
+
+footer {
+  text-align: center;
+  padding: 0.625rem 0;
+  background-color: #333;
+  color: #fff;
+  margin-top: auto;
+}
+
+.search-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.search-results {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.625rem;
+}
+
+.search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 0.625rem;
+  background-color: #fff;
+  border: 0.0625rem solid #e0e0e0;
+  border-radius: 0.3125rem;
+}
+
+#search {
+  flex: 1;
+  padding: 0.3125rem;
+  border: 0.0625rem solid #e0e0e0;
+  border-radius: 0.3125rem;
+  margin-right: 0.625rem;
+  outline: none;
+  transition: border-color 0.3s;
+}
+
+#search:focus {
+  border-color: #333;
+}
+
+.search-container button {
+  padding: 0.3125rem 0.625rem;
+  background-color: #333;
+  color: #fff;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.3125rem;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.search-container button:hover {
+  background-color: #555;
+}

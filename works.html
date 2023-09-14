@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Untitled - Félix González-Torres</title>
+    <link rel="stylesheet" href="css/works.css">
+    <script src="js/works.js"></script>
+</head>
+
+<body>
+    <header>
+        <button id="back-btn">Back</button>
+        <h1>Works</h1>
+    </header>
+
+    <div id="filter-buttons">
+        <button data-filter="1990">1990</button>
+        <button data-filter="1991">1991</button>
+        <button data-filter="1992">1992</button>
+        <button data-filter="1993">1993</button>
+        <button data-filter="all">All</button> <!-- Add an "All" option to display all works -->
+    </div>
+
+    <div class="wrapper">
+        <div class="works-grid" id="works-container"></div>
+    </div>
+    <a href="teisection.xml">Download Publication XML for Felix González-Torres</a>
+
+    <footer>
+        <p>&copy; 2023 Isabella Bosco Digital Humanities</p>
+    </footer>
+    <script>
+        const backButton = document.getElementById("back-btn");
+        backButton.addEventListener("click", function () {
+            window.history.back();
+        });
+    </script>
+</body>
+
+</html>
